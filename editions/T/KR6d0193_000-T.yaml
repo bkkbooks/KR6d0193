@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0193/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 略法華三昧補助儀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1943.xml
+    old_id: T46n1943
+hash: sha256:6fcaf4b0877b26ae4cadfcc4437605af5f3c3cf1042ced7eec5a7fed3278ae35

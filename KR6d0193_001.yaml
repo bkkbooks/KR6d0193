@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6d0193/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 由此懺法隨事觀想並指法華三昧補助儀文今恐各行無處尋檢翻成所闕故從要急略彼辭句附此文後以備承用請對前事儀之下運此觀想故此但令運想不録事相用者應知初運香華運想曰願此香華遍十方以為微妙光明臺諸天音樂天寶香諸天肴膳天寶衣不可思議妙法塵一一塵出一切塵一一塵出一切法旋轉無礙互莊嚴遍至一切三寶前十方法界三寶前皆有我身修供養一一皆悉遍法界彼彼無雜無障閡盡未來際作佛事普熏法界諸衆生蒙熏皆發菩提心同入無生證佛智請佛我三業性如虛空釋迦牟尼亦如是不起真際為衆生與衆俱來受供養諸佛菩薩但改牟尼及形相來處請法法性如空不可見常住法寶難思議我今三業如法請惟願影現受供養禮佛能禮所禮性空寂感應道交難思議我此道場如帝珠釋迦牟尼影現中我今影現牟尼前頭面接足歸命禮餘佛菩薩但改牟尼為異禮法真空法性如虛空常住法寶難思議我身影現法寶前莫不皆悉歸命禮普為我及衆生云云懺悔前運逆順十心我與衆生云云
+  hash: sha256:bbe51ddaa87928a4a78f2c6d5179d75398e9a6afccd5d1faaa8dd20751414985
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 略法華三昧補助儀并序, id: KR6d0193_T_001-juan-start, juan_n: '001', jhead: 略法華三昧補助儀并序}
+  - {type: 'cbeta:juan-end', offset: 376, content: 略法華三昧補助儀, id: KR6d0193_T_001-juan-end, juan_n: '001', jhead: 略法華三昧補助儀}
+metadata:
+  title: 略法華三昧補助儀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1943.xml
+    old_id: T46n1943
+hash: sha256:0fc11ccf26ec15a7470411b1a2e97b513f0f90b5d63ed0ce2c449beacf23dedc
