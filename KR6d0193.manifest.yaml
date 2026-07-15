@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0193/v1
 canonical_location: https://kanripo.org/bkk/KR6d0193/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 略法華三昧補助儀
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6d0193_000.yaml, hash: 'sha256:6fcaf4b0877b26ae4cadfcc4437605af5f3c3cf1042ced7eec5a7fed3278ae35'}
-  - {seq: 1, filename: KR6d0193_001.yaml, hash: 'sha256:da473111ea8bf9f44224031742bcb327742c33a47e897e6e8c66530b1f7ee46d'}
+  - {seq: 1, filename: KR6d0193_001.yaml, hash: 'sha256:0fc11ccf26ec15a7470411b1a2e97b513f0f90b5d63ed0ce2c449beacf23dedc'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0193_000.markers.yaml, hash: 'sha256:f00fc1a49bafc5537342909c487c08ff3fd1fbf5249232400b1e744772ca3c8a'}
-  - {seq: 1, role: markers, filename: assets/KR6d0193_001.markers.yaml, hash: 'sha256:bf6793a0481a38e4affb3bcf4c0811ccbb0b507200102545a86f92dc2d1b685c'}
+  - {seq: 1, role: markers, filename: assets/KR6d0193_001.markers.yaml, hash: 'sha256:90770b5307f69b37778549ed8275cea0fd7ce8b83d181eeeae45d15a1d2e5cfb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,7 @@ table_of_contents:
   label: 略法華三昧補助儀并序
   type: juan
   level: 1
-hash: sha256:e222201df810168befa3a7d30a547b76e67dcd570190857e1e726f9d00ed4fd7
+hash: sha256:c4c2e21fcc38f9f617c8560e4e9dd17da3882642510610dd8fe278020e510d7e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
